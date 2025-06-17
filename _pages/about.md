@@ -37,13 +37,13 @@ As an undergraduate student in Software Engineering, I am currently devoted to l
 
 # 🎖 Honors and Awards
 
-- *2025.05* **Second Prize**,MathorCup Mathematical Modeling Competition
-- *2025.05* **First Prize**,The 9th Guangzhou Mathematical Modeling Competition (2024) 
-- *2025.01* **Second Prize**,2024 APMCM Wuyue Cup Quantum Computing Challenge(Undergraduate group) 
+- *2025.05* **Second Prize**, MathorCup Mathematical Modeling Competition
+- *2025.05* **First Prize**, The 9th Guangzhou Mathematical Modeling Competition (2024) 
+- *2025.01* **Second Prize**, 2024 APMCM Wuyue Cup Quantum Computing Challenge(Undergraduate group) 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - (now)*, South China University of Technology 
+- *2021.09 - 2024.06*, Dongguan High School
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
