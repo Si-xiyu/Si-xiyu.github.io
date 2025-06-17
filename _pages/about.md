@@ -22,15 +22,16 @@ Hi😊! I’m Junxiang Luo, a passionate and curious student at **SCUT** (South 
   
 I’m currently particularly interested in the field of Artificial Intelligence, especially in areas such as image synthesis and visual recognition. As I advance in my studies, I aspire to explore both the theoretical underpinnings and real-world applications of these technologies. I’m also eager to broaden my knowledge across diverse areas of computer science — from machine learning to intelligent systems — in pursuit of a more comprehensive and interdisciplinary understanding of the field.  
   
-I’m proficient in C++, Qt, and Python, and have a foundational understanding of HTML, CSS, and JavaScript. I’m currently expanding my skill set by learning Java and C#. To strengthen my theoretical and practical foundation, I’ve completed Harvard’s CS50 and am now preparing to study CS61B (Data Structures), MIT 6.036 (Introduction to Machine Learning), and Discrete Mathematics (MATH1071).  
+I’m proficient in C++, Qt, and Python, and have a foundational understanding of HTML, CSS, JavaScript and MySQL. I’m currently expanding my skill set by learning Java and C#. To strengthen my theoretical and practical foundation, I’ve completed Harvard’s CS50 and am now preparing to study CS61B (Data Structures), MIT 6.036 (Introduction to Machine Learning), and Discrete Mathematics (MATH1071).  
   
 Beyond academic study, I actively take part in competitions to challenge myself and apply what I’ve learned. I’m also drawn to emerging technologies and enjoy working with like-minded peers on meaningful projects. When I’m not coding or studying, I love traveling — exploring new places and cultures not only helps me recharge, but also sparks creative ideas and fresh perspectives.  
   
-If you’re interested in discussing shared research interests, potential collaborations, or simply exchanging ideas, feel free to contact me at [junxiangluo0@outlook.com](junxiangluo0@outlook.com) I’m always open to meaningful conversations and new opportunities.  
+If you’re interested in discussing shared research interests, potential collaborations, or simply exchanging ideas, feel free to contact me at junxiangluo0@outlook.com. I’m always open to meaningful conversations and new opportunities.  
 
 # 🔥 News
-- *2022.02*: 🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2025.01*: 🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: Successfully Completed my first major independent project: Guandan Card Game(as shown in my repository: GuanDan)!
+- *2025.03*: Completed Harvard's CS50: Introduction to Computer Science
+- *2024.12*: Joined the AI-based SQL Injection Attack and Defense Research Group.
 
 # 📝 Publications 
 As an undergraduate student in Software Engineering, I am currently devoted to laying a strong academic and technical foundation. While I have not yet published any research papers, I am deeply passionate about conducting work that is both meaningful and impactful. I believe that true contributions come not from haste, but from quiet accumulation and deep reflection — a conviction that meaningful research must be built upon solid understanding and patient exploration. In the future, I hope to make substantial and lasting contributions to emerging fields such as Artificial Intelligence and Computer Graphics.
@@ -46,4 +47,4 @@ As an undergraduate student in Software Engineering, I am currently devoted to l
 - *2021.09 - 2024.06*, Dongguan High School
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+Although I have not yet undertaken a formal internship, I am actively preparing for future opportunities through coursework, personal projects, and participation in academic competitions. I am eager to apply my knowledge in real-world settings, gain practical experience, and collaborate with professionals in the tech industry. I look forward to contributing to meaningful projects and growing through hands-on learning in upcoming internship experiences.
