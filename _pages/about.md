@@ -24,18 +24,18 @@ I’m proficient in C++, Qt, and Python, and have a foundational understanding o
 Beyond academic study, I actively take part in competitions to challenge myself and apply what I’ve learned. I’m also drawn to emerging technologies and enjoy working with like-minded peers on meaningful projects. When I’m not coding or studying, I love traveling — exploring new places and cultures not only helps me recharge, but also sparks creative ideas and fresh perspectives.
 If you’re interested in discussing shared research interests, potential collaborations, or simply exchanging ideas, feel free to contact me at [junxiangluo0@outlook.com](junxiangluo0@outlook.com) I’m always open to meaningful conversations and new opportunities.
 
-
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: 🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*: 🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2025.05* **Second Prize**,MathorCup Mathematical Modeling Competition
+- *2025.05* **First Prize**,The 9th Guangzhou Mathematical Modeling Competition (2024) 
+- *2025.01* **Second Prize**,2024 APMCM Wuyue Cup Quantum Computing Challenge(Undergraduate group) 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
