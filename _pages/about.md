@@ -29,7 +29,7 @@ Beyond academic study, I actively take part in competitions to challenge myself 
 If you’re interested in discussing shared research interests, potential collaborations, or simply exchanging ideas, feel free to contact me at [junxiangluo0@outlook.com](mailto:junxiangluo0@outlook.com). I’m always open to meaningful conversations and new opportunities.  
 
 # 🔥 News
-- *2025.06*: Successfully Completed my first major independent project: Guandan Card Game(as shown in my repository: <a href="https://github.com/Si-xiyu/GuanDan" target="_blank">GuanDan</a>
+- *2025.06*: Successfully Completed my first major independent project: Guandan Card Game(as shown in my repository: GuanDan)
 )!
 - *2025.03*: Completed Harvard's CS50: Introduction to Computer Science
 - *2024.12*: Joined the AI-based SQL Injection Attack and Defense Research Group.
@@ -37,8 +37,11 @@ If you’re interested in discussing shared research interests, potential collab
 # 📝 Publications 
 As an undergraduate student in Software Engineering, I am currently devoted to laying a strong academic and technical foundation. While I have not yet published any research papers, I am deeply passionate about conducting work that is both meaningful and impactful. I believe that true contributions come not from haste, but from quiet accumulation and deep reflection — a conviction that meaningful research must be built upon solid understanding and patient exploration. In the future, I hope to make substantial and lasting contributions to emerging fields such as Artificial Intelligence and Computer Graphics.
 
-# 🎖 Honors and Awards
+# 🚀 Projects
+- *2025.06* **Guandan Card Game**
+  Developed a functional and extensible standalone card game using **C++** and **Qt**, with complete core logic and a modular design for future expansion. [👉View on GitHub](https://github.com/Si-xiyu/GuanDan)
 
+# 🎖 Honors and Awards
 - *2025.05* **Second Prize**, MathorCup Mathematical Modeling Competition
 - *2025.05* **First Prize**, The 9th Guangzhou Mathematical Modeling Competition (2024) 
 - *2025.01* **Second Prize**, 2024 APMCM Wuyue Cup Quantum Computing Challenge(Undergraduate group) 
