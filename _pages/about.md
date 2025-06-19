@@ -29,8 +29,7 @@ Beyond academic study, I actively take part in competitions to challenge myself 
 If you’re interested in discussing shared research interests, potential collaborations, or simply exchanging ideas, feel free to contact me at [junxiangluo0@outlook.com](mailto:junxiangluo0@outlook.com). I’m always open to meaningful conversations and new opportunities.  
 
 # 🔥 News
-- *2025.06*: Successfully Completed my first major independent project: Guandan Card Game(as shown in my repository: GuanDan)
-)!
+- *2025.06*: Successfully Completed my first major independent project: Guandan Card Game(as shown in my repository: GuanDan)!
 - *2025.03*: Completed Harvard's CS50: Introduction to Computer Science
 - *2024.12*: Joined the AI-based SQL Injection Attack and Defense Research Group.
 
