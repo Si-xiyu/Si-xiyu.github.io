@@ -37,7 +37,7 @@ If you’re interested in discussing shared research interests, potential collab
 As an undergraduate student in Software Engineering, I am currently devoted to laying a strong academic and technical foundation. While I have not yet published any research papers, I am deeply passionate about conducting work that is both meaningful and impactful. I believe that true contributions come not from haste, but from quiet accumulation and deep reflection — a conviction that meaningful research must be built upon solid understanding and patient exploration. In the future, I hope to make substantial and lasting contributions to emerging fields such as Artificial Intelligence and Computer Graphics.
 
 # 🚀 Projects
-- *2025.06* **Guandan Card Game**
+- *2025.06* **Guandan Card Game**  
   Developed a functional and extensible standalone card game using **C++** and **Qt**, with complete core logic and a modular design for future expansion. [👉View on GitHub](https://github.com/Si-xiyu/GuanDan)
 
 # 🎖 Honors and Awards
