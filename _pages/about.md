@@ -18,15 +18,20 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 💡 About Me
-Hi😊! I’m Junxiang Luo, a passionate and curious student at **SCUT** (South China University of Technology) based in vibrant Guangzhou, majoring in software engineering now. As an eager learner and problem solver, I’m fascinated by the endless possibilities in **Computer Science**, especially in cutting-edge fields like **Artificial Intelligence** and **Computer Vision**, where technology meets creativity to solve real-world problems.  
-  
-I’m currently particularly interested in the field of Artificial Intelligence, especially in areas such as image synthesis and visual recognition. As I advance in my studies, I aspire to explore both the theoretical underpinnings and real-world applications of these technologies. I’m also eager to broaden my knowledge across diverse areas of computer science — from machine learning to intelligent systems — in pursuit of a more comprehensive and interdisciplinary understanding of the field.  
-  
+Hi😊! I’m Junxiang Luo, a passionate and curious student at **SCUT** (South China University of Technology) based in vibrant Guangzhou, majoring in software engineering now. As an eager learner and problem solver, I’m fascinated by the endless possibilities in **Computer Science**, especially in cutting-edge fields like **Computer Vision**, and **Machine Learning**, where technology meets creativity to solve real-world problems.  
+
 I’m proficient in C++, Qt, and Python, and have a foundational understanding of HTML, CSS, JavaScript and MySQL. I’m currently expanding my skill set by learning Java and C#. To strengthen my theoretical and practical foundation, I’ve completed Harvard’s CS50 and am now preparing to study CS61B (Data Structures), MIT 6.036 (Introduction to Machine Learning), and Discrete Mathematics (MATH1071).  
   
 Beyond academic study, I actively take part in competitions to challenge myself and apply what I’ve learned. I’m also drawn to emerging technologies and enjoy working with like-minded peers on meaningful projects. When I’m not coding or studying, I love traveling — exploring new places and cultures not only helps me recharge, but also sparks creative ideas and fresh perspectives.  
   
 If you’re interested in discussing shared research interests, potential collaborations, or simply exchanging ideas, feel free to contact me at [junxiangluo0@outlook.com](mailto:junxiangluo0@outlook.com). I’m always open to meaningful conversations and new opportunities.  
+
+## Research Interest  
+My research interests lie at **Computer Vision**, **Machine Learning**, and **Robotics**, where I aim to develop intelligent agents capable of perceiving and interacting with the real world in dynamic and uncertain environments. I am particularly focused on:  
+- **Visual Perception for Autonomous Agents**: I am fascinated by how machines can extract meaningful representations from high-dimensional visual inputs. I am studying how computer vision techniques—such as object detection, semantic segmentation, and visual tracking—can be leveraged to enable real-time understanding and decision-making.
+- **Reinforcement Learning for Embodied Intelligence**: I am studying how reinforcement learning can endow robots with the ability to learn complex behaviors through interaction with the environment, particularly in tasks where visual feedback is essential for reward-guided control and planning.
+
+Looking ahead, I aspire to contribute to the development of intelligent and adaptive robotic systems that seamlessly integrate **perception**, **learning**, and **control**. I am particularly excited about unlocking the real-world potential of higher-level cognitive capabilities in robots—such as autonomous driving, drone navigation and inspection, and complex decision-making in dynamic environments.
 
 # 🔥 News
 - *2025.06*: Successfully Completed my first major independent project: Guandan Card Game(as shown in my repository: GuanDan)!
