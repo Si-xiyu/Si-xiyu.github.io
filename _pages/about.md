@@ -48,10 +48,16 @@ As an undergraduate student in Software Engineering, I am currently devoted to l
 # 🎖 Honors and Awards
 - *2025.05* **Second Prize**, MathorCup Mathematical Modeling Competition
 <a href="../docs/paper/mathorcup论文.pdf" target="_blank">
-  <img src="../images/pdf.png" alt="PDF" style="width:40px; height:40px; cursor:pointer;">
+  <img src="../images/pdf.png" alt="PDF" style="width:20px; height:20px; cursor:pointer;">
 </a>
-- *2025.05* **First Prize**, The 9th Guangzhou Mathematical Modeling Competition (2024) 
-- *2024.12* **Second Prize**, 2024 APMCM Wuyue Cup Quantum Computing Challenge(Undergraduate group) 
+- *2025.05* **First Prize**, The 9th Guangzhou Mathematical Modeling Competition (2024)
+<a href="../docs/paper/A202501118.pdf" target="_blank">
+  <img src="../images/pdf.png" alt="PDF" style="width:20px; height:20px; cursor:pointer;">
+</a>
+- *2024.12* **Second Prize**, 2024 APMCM Wuyue Cup Quantum Computing Challenge(Undergraduate group)
+<a href="../docs/paper/apmcmlz2400169fj.pdf" target="_blank">
+  <img src="../images/pdf.png" alt="PDF" style="width:20px; height:20px; cursor:pointer;">
+</a>
 
 # 📖 Educations
 - *2024.09 - (now)*, South China University of Technology 
