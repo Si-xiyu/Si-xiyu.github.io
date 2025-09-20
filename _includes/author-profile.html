@@ -215,4 +215,21 @@
       {% endif %}
     </div>
   </div>
+  <div id="last-updated" style="font-size: 0.8em; text-align: center; margin-top: 15px; color: #888;">
+    Last updated: Loading...
+  </div>
+  <script>
+    fetch("https://api.github.com/repos/Si-xiyu/Si-xiyu.github.io/commits?per_page=1")
+      .then(response => response.json())
+      .then(data => {
+        const lastUpdate = new Date(data[0].commit.committer.date);
+        const formattedDate = lastUpdate.getFullYear() + '-' +
+          String(lastUpdate.getMonth() + 1).padStart(2, '0') + '-' +
+          String(lastUpdate.getDate()).padStart(2, '0');
+        document.getElementById("last-updated").textContent = "Last updated: " + formattedDate;
+      })
+      .catch(() => {
+        document.getElementById("last-updated").textContent = "Last updated: Failed to fetch";
+      });
+  </script>
 </div>
