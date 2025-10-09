@@ -34,7 +34,7 @@ My research interests lie at **Computer Vision**, **Machine Learning**, and **Ro
 Looking ahead, I aspire to contribute to the development of intelligent and adaptive robotic systems that seamlessly integrate **perception**, **learning**, and **control**. I am particularly excited about unlocking the real-world potential of higher-level cognitive capabilities in robots—such as autonomous driving, drone navigation and inspection, and complex decision-making in dynamic environments.
 
 # 🔥 News
-- *2025.10*：Received the Provincial First Prize in the 2025 National College Students Mathematical Modeling Competition (CUMCM).
+- *2025.10*: Received the Provincial First Prize in the 2025 National College Students Mathematical Modeling Competition (CUMCM).
 - *2025.06*: Successfully Completed my first major independent project: Guandan Card Game(as shown in my repository: GuanDan)!
 - *2025.03*: Completed Harvard's CS50: Introduction to Computer Science
 - *2024.12*: Joined the AI-based SQL Injection Attack and Defense Research Group.
