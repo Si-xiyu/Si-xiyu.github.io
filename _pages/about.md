@@ -48,6 +48,8 @@ As an undergraduate student in Software Engineering, I am currently devoted to l
   Developed a functional and extensible standalone card game using **C++** and **Qt**, with complete core logic and a modular design for future expansion. [👉View on GitHub](https://github.com/Si-xiyu/GuanDan)
 
 # 🎖 Honors and Awards
+- *2025.12* **China National Scholarship** at SCUT (5%)
+- *2025.10* **Provincal First Prize**, 2025 National College Students Mathematical Modeling Competition (CUMCM)
 - *2025.05* **Second Prize**, MathorCup Mathematical Modeling Competition
 <a href="../docs/paper/mathorcup论文.pdf" target="_blank">
   <img src="../images/pdf.png" alt="PDF" style="width:20px; height:20px; cursor:pointer;">
