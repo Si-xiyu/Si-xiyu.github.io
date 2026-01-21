@@ -67,6 +67,14 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
+      {% if author.xiaohongshu %}
+        <li>
+          <a href="{{ author.xiaohongshu }}">
+            <img src="/assets/icons/rednote.svg" style="width:1em;height:1em;vertical-align:-0.15em;margin-right:0.4em;">
+            Rednote
+          </a>
+        </li>
+      {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
       {% endif %}
